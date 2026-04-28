@@ -1,5 +1,7 @@
 {
   "name": "bim-dev-marketplace",
+  "description": "Claude Code plugin marketplace for BIM software development.",
+  "version": "1.0.0",
   "owner": {
     "name": "Saddiq Ur Rehman"
   },
@@ -9,6 +11,9 @@
       "source": "./plugins/bim-software-dev-plugin",
       "description": "BIM software development skill for Revit API, Unity, IFC, OpenBIM, XR, BIM data engineering, digital twins, AI, robotics, and BIM integration.",
       "version": "1.0.0",
+      "homepage": "https://github.com/isaddiq/Claude-BIM-development-skill",
+      "repository": "https://github.com/isaddiq/Claude-BIM-development-skill",
+      "license": "MIT",
       "author": {
         "name": "Saddiq Ur Rehman"
       }

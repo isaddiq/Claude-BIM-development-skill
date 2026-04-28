@@ -9,7 +9,7 @@ It provides the `bim-software-dev-plugin`, which adds a Claude Code skill for Re
 In Claude Code, add this GitHub repository as a plugin marketplace:
 
 ```text
-/plugin marketplace add isaddiq/bim-software-dev-plugin
+/plugin marketplace add isaddiq/Claude-BIM-development-skill
 ```
 
 Then install the BIM plugin from that marketplace:
@@ -17,6 +17,14 @@ Then install the BIM plugin from that marketplace:
 ```text
 /plugin install bim-software-dev-plugin@bim-dev-marketplace
 ```
+
+If you prefer the full Git URL, this is equivalent:
+
+```text
+/plugin marketplace add https://github.com/isaddiq/Claude-BIM-development-skill.git
+```
+
+![alt text](image.png)
 
 ## Use The Skill
 
