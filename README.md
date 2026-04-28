@@ -17,6 +17,7 @@ Then install the BIM plugin from that marketplace:
 ```text
 /plugin install bim-software-dev-plugin@bim-dev-marketplace
 ```
+<img width="910" height="693" alt="image" src="https://github.com/user-attachments/assets/81c3651d-62d3-49b1-a66c-7e48c68c0371" />
 
 ## Use The Skill
 
