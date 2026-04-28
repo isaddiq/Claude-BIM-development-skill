@@ -95,14 +95,3 @@ plugins/
 ```
 
 The root `.claude-plugin/marketplace.json` makes this repository a Claude Code plugin marketplace. The plugin-level `.claude-plugin/plugin.json` defines the installable BIM plugin.
-
-## Updating
-
-When releasing a new version, bump the version in both files:
-
-- `plugins/bim-software-dev-plugin/.claude-plugin/plugin.json`
-- `.claude-plugin/marketplace.json`
-
-## Official Marketplace Submission
-
-This repository can be installed directly by adding it as a Claude Code plugin marketplace. Listing it in any official Claude or Anthropic marketplace is separate and requires following the official plugin submission process.
