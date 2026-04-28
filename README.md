@@ -25,8 +25,6 @@ If you prefer the full Git URL, this is equivalent:
 /plugin marketplace add https://github.com/isaddiq/Claude-BIM-development-skill.git
 ```
 
-![alt text](image.png)
-
 ## Use The Skill
 
 After installation, run the BIM software development skill from Claude Code:
