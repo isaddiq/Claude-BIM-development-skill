@@ -1,0 +1,10 @@
+{
+  "name": "bim-software-dev-plugin",
+  "description": "Adds a BIM software development skill for C# Revit API, C# Unity BIM tools, IFC/OpenBIM workflows, BIM data engineering, BIM automation, BIM validation, XR, digital twins, AI/ML, robotics, and web/database integrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Saddiq Ur Rehman"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/isaddiq/bim-software-dev-plugin"
+}

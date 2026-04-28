@@ -1,0 +1,17 @@
+{
+  "name": "bim-dev-marketplace",
+  "owner": {
+    "name": "Saddiq Ur Rehman"
+  },
+  "plugins": [
+    {
+      "name": "bim-software-dev-plugin",
+      "source": "./plugins/bim-software-dev-plugin",
+      "description": "BIM software development skill for Revit API, Unity, IFC, OpenBIM, XR, BIM data engineering, digital twins, AI, robotics, and BIM integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Saddiq Ur Rehman"
+      }
+    }
+  ]
+}
